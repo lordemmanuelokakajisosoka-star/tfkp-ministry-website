@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TFKP | Free Kingdom Publications</title>
+<style>
+body {
+  margin: 0;
+  font-family: Georgia, serif;
+  background: #f8f5e9;
+  color: #242016;
+  line-height: 1.7;
+}
+header {
+  background: #173b2a;
+  color: white;
+  text-align: center;
+  padding: 35px 15px;
+}
+header h1 {
+  color: #f5d36c;
+  font-size: 27px;
+}
+nav {
+  background: #b58b32;
+  padding: 12px;
+  text-align: center;
+}
+nav a {
+  color: white;
+  margin: 8px;
+  text-decoration: none;
+  font-weight: bold;
+}
+main {
+  max-width: 850px;
+  margin: auto;
+  padding: 25px;
+}
+h2 {
+  color: #805c16;
+}
+section {
+  margin-bottom: 35px;
+}
+footer {
+  background: #173b2a;
+  color: white;
+  text-align: center;
+  padding: 25px;
+}
+</style>
+</head>
+<body>
+
+<header>
+<h1>THE INSTITUTE FOR FREE KINGDOM PUBLICATIONS</h1>
+<h2 style="color:white">TFKP MINISTRY</h2>
+<p>Heavenly Guaranteed · Shalom</p>
+</header>
+
+<nav>
+<a href="#home">Home</a>
+<a href="#mission">Our Mission</a>
+<a href="#publications">Publications</a>
+<a href="#contact">Contact</a>
+</nav>
+
+<main>
+<section id="home">
+<h2>Welcome to TFKP</h2>
+<p>
+Welcome to the Institute for Free Kingdom Publications.
+A ministry dedicated to sharing the truth of God's Kingdom
+through free Christian publications, Bible teachings and
+educational materials.
+</p>
+</section>
+
+<section id="mission">
+<h2>Our Mission</h2>
+<p>
+To make Kingdom publications and biblical teachings freely
+available to all generations, encouraging faith, wisdom,
+obedience to God's Word and the knowledge of Jesus Christ.
+</p>
+<p><strong>Matthew 10:8:</strong> Freely ye have received,
+freely give.</p>
+</section>
+
+<section id="publications">
+<h2>Kingdom Publications</h2>
+<p>
+Explore our Christian teachings, prophetic messages,
+spiritual notes and educational materials.
+</p>
+<p>More publications will be added here.</p>
+</section>
+
+<section id="contact">
+<h2>Contact and Fellowship</h2>
+<p>
+Welcome to learn, read and share the message of God's Kingdom.
+</p>
+</section>
+</main>
+
+<footer>
+<p>The Institute for Free Kingdom Publications (TFKP)</p>
+<p>Official Ministry Publications</p>
+<p>Hosted by aironet.com</p>
+<p>Sanctioned by the World Field Marshal, Heavenly Guaranteed.</p>
+<p>Shalom.</p>
+</footer>
+
+</body>
+</html>
